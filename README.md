@@ -24,7 +24,7 @@ This is a submittion for the completion of qrcode component on front end mentor
 
 ### Links
 
-- Solution URL: [Solution url](file:///C:/Users/USER/Desktop/Web%20Development/qr-code-component-main/index.html)
+- Solution URL: [Solution urlhttps://github.com/vivaskeng/qrcomposition.git)
 - Live Site URL: [Live site URL here](https://your-live-site-url.com)
 
 ## My process
