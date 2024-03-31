@@ -1,0 +1,54 @@
+body {
+    background-color: lightgray;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    line-height: 1.5;
+}
+img {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    margin-bottom: 20px;    
+}
+a {
+    color: darkblue;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+
+}
+a:hover {
+    color: #EAF6F6;
+}
+.attribution {
+
+    color: black;
+    font-size: 11px; text-align: center; 
+    padding: 100px 0px;
+}
+.outsider { 
+    background-color: white;
+    width: 17%;
+    height: 450px;
+    border-radius: 8px;
+    margin: auto;
+    
+}
+.P-1{
+    font-size: large;
+    font-weight: bold;
+    width: 92%;
+    margin: auto;
+    padding-bottom: 20px;
+    font-family: "Montserrat", sans-serif;
+
+}
+.P-2 {
+    font-size: medium;
+    width: 90%;
+    margin: auto;
+    padding-bottom: 20px;
+    color: gray;
+    font-family: "Montserrat", sans-serif;
+}
