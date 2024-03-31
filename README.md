@@ -24,8 +24,8 @@ This is a submittion for the completion of qrcode component on front end mentor
 
 ### Links
 
-- Solution URL: [Solution urlhttps://github.com/vivaskeng/qrcomposition.git)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution url](https://github.com/vivaskeng/qrcomposition.git)
+- Live Site URL: [Live site URL here](https://vivaskeng.github.io/qrcomposition/)
 
 ## My process
 I created a new div and added 2 paragraphs for the statements, then I choose the font family and size I wante
